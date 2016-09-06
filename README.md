@@ -10,6 +10,7 @@
 - [x] 뉴런 하나의 Feed-forward 구현하기 
 - [x] 뉴런 하나의 Back-propagation 구현하기
 - [ ] Implementing FCNN
+- [ ] Image Convolution
 
 ### Reference
 - C++로 배우는 딥러닝 - http://blog.naver.com/atelierjpro/220697890605
