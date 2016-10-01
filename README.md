@@ -9,7 +9,7 @@
 ### TODO
 - [x] 뉴런 하나의 Feed-forward 구현하기 
 - [x] 뉴런 하나의 Back-propagation 구현하기
-- [ ] Implementing FCNN
+- [x] Implementing FCNN
 - [ ] Image Convolution
 
 ### Reference
