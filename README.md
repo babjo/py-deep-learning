@@ -5,6 +5,7 @@
 ### Implement
 - [Feed-forward](https://github.com/babjo/py-deep-learning/blob/master/feed-forword.py)
 - [Back-propagation](https://github.com/babjo/py-deep-learning/blob/master/back-propagation.py)
+- [FCNN](https://github.com/babjo/py-deep-learning/tree/master/FCNN)
 
 ### TODO
 - [x] 뉴런 하나의 Feed-forward 구현하기 

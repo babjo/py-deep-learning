@@ -1,11 +1,10 @@
-from MatrixMN import MatrixMN
 from NeuralNetwork import NeuralNetwork
 
 x = [0.0, 0.0]
 y_target = [0.3]
 
 nn_ = NeuralNetwork(2, 1, 1)
-nn_.alpha_ = 0.01
+nn_.alpha_ = 0.1
 
 for unused in range(100):
     nn_.setInputVector(x)
